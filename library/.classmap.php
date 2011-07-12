@@ -1,5 +1,6 @@
 <?php
 return array (
+  'Mystuff\\Application\\Resource\\View' => __DIR__ . DIRECTORY_SEPARATOR . 'Mystuff' . DIRECTORY_SEPARATOR . 'Application' . DIRECTORY_SEPARATOR . 'Resource' . DIRECTORY_SEPARATOR . 'View.php',
   'Zend\\Dojo\\Exception\\RuntimeException' => __DIR__ . DIRECTORY_SEPARATOR . 'Zend/Dojo/Exception/RuntimeException.php',
   'Zend\\Dojo\\Exception\\InvalidArgumentException' => __DIR__ . DIRECTORY_SEPARATOR . 'Zend/Dojo/Exception/InvalidArgumentException.php',
   'Zend\\Dojo\\BuildLayer' => __DIR__ . DIRECTORY_SEPARATOR . 'Zend/Dojo/BuildLayer.php',
